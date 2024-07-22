@@ -6,7 +6,7 @@ using namespace std;
  int main()
  {
  	
- 	int x = 4, y = 4, x2, y2, f = 0;
+    int x = 4, y = 4, x2, y2, f = 0;
     char symbol='y'; 
     
     // cin>>symbol;
