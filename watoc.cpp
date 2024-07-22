@@ -7,14 +7,9 @@ struct info {
 } user;
 
 int main()
-{	
-	
+{	//
 	user.phone = 10;
 	user.name = "Man";
 	
 	cout << user.name;
-	
-	
-	
-	
 }
